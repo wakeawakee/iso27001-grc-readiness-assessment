@@ -29,4 +29,4 @@ The assessment covers:
 ## Author
 
 **Shreejal**
-GRC / Information Security Portfolio Project
+GRC / Information Security  Project
